@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+#total{
+     
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+}
+#signup{
+    background:#fff;
+    border:1px solid #222;
+    border-radius:5px;
+    /* padding: 80px; */
+    width: 400px;
+    height: 800px;
+    margin: 0 auto;
+    z-index: 999;
+}
+
+.title{
+    text-align: center;
+}
+.subtitle{
+    text-align: center;
+}
+ul li{
+    padding: 10px 20px;
+    list-style: none;
+}
+
+li{
+
+}
+
+#signup input{
+    width: 400px;
+    height: 30px;
+}
+input #checkbox{
+    width:0px;
+    height: 0px;
+}
+
+#signup2{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+#signup2 p{
+    font-size: 0.9rem;
+}
+#submit{
+   text-align: center;
+   height: 50px;
+}
+#submit button{
+    padding: 25px;
+
+}
+#finish{
+    text-align: center;
+    padding: 50px;
+}
+
+
+/* @charset "utf-8";
+/* 초기화 코드-- */
+/* *{
+    margin: 0;
+    padding: 0; */
+/* 홈페이지에 틈을 없애준다. */
+/* } */
+/* body{ */
+    
+/* } */
+/* .bg{ */
+    /* width: 100vw;
+    height: 200vw;
+    position: absolute;
+    background: black;
+    opacity: 0.7;
+    top: 0;
+    z-index: -999;
+}
+fieldset{
+    width: 400px;
+    height: 700px;
+}
+#signup{
+    background:#fff;
+    border:1px solid #222;
+    border-radius:5px;
+    padding: 100px;
+    width: 400px;
+    height: 700px;
+    margin: 0 auto;
+    z-index: 999;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.subtitle{
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+input{
+    
+} */ 
+/* #signup fieldset{
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+} */
+/* 제출 버튼 */
+/* #signup fieldset:last-of-type{
+    border:none;
+} */
+/* 로그인 정보, 개인정보 */
+/* #signup legend{
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-bottom: 10px; */
+/* } */
+/* 개인정보 li 로그인정보 li */
+/* #signup ul li{
+    line-height: 30px;
+    list-style: none;
+    padding:5px 10px;
+    margin-bottom: 2px;
+}
+#signup label{
+    float:left;
+    font: size 13px;
+    width:110px
+}
+#signup button{
+    border: 1px solid #222;
+    border-radius: 20px;
+    font-size: 10px;
+    letter-spacing: 1px;
+    padding: 7px 25px;
+    display: block;
+    margin: 0 auto;
+}
+#signup input[type=text],#signup input[type=password],
+#signup input[type=tel],#signup input[type=email]{
+    border:1px solid #ccc;
+    border-radius: 3px;
+    font-size: 13px;
+    padding: 5px;
+    width: 200px;
+}
+/* input에서 required 속성을 가진 */
+/* #signup input[required]{
+    border: 1px red solid;
+} */
+/* input에서 readonly 속성을 가진 */
+/* #signup input[readonly]{
+    border: none;
+}
+#signup button:hover{
+    background: #222;
+    color: #fff;
+} */ 
